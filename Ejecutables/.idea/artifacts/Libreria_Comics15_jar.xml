@@ -1,0 +1,96 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Libreria-Comics15:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Libreria_Comics15_jar</output-path>
+    <root id="archive" name="Libreria-Comics15.jar">
+      <element id="module-output" name="Libreria-Comics15" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/controlsfx-9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-javadoc-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-ooxml-full-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-scratchpad-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/ooxml-lib/curvesapi-1.07.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/ooxml-lib/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/ooxml-lib/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/ooxml-lib/xmlbeans-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/ooxml-lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-excelant-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-ooxml-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-examples-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/poi-ooxml-lite-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/poi/lib/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-console-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/decora_sse.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/fxplugins.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/glass.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/glib-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/javafx_font.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/javafx_iio.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/jfxwebkit.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/msvcp140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/msvcp140_1.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/msvcp140_2.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/prism_common.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/prism_d3d.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/prism_sw.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../Program Files/Java/Plugins/JavaFX SDK/bin/vcruntime140_1.dll" />
+    </root>
+  </artifact>
+</component>

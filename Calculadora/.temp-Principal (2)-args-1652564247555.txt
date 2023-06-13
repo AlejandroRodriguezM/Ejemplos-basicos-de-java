@@ -1,0 +1,11 @@
+--module-path
+"C:\\Program Files\\Java\\JavaFX\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=UTF-8
+-p
+"C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.base.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.controls.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.fxml.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.graphics.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.media.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.swing.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx.web.jar;C:\\Program Files\\Java\\jdk-18.0.1.1\\JavaFX\\lib\\javafx-swt.jar"
+-classpath
+"C:\\Users\\mrmis\\Desktop\\Mis ejercicios\\eclipse\\Ejercicio 31\\Ejercicio 31\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+Principal
